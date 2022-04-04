@@ -2,7 +2,7 @@
 ## 🚀 About Me
 - Passionate about Cloud Technology.
 - Love Open Source.
--  ⚡ Fun fact! *I created my first Web Application when I was 3 months old. True Story!* 🤫
+-  ⚡ Fun fact! *I was born on Halloween Day!* 🤫
 
 ## 🛠  Skills
 - C++<a href="https://www.linkedin.com/skill-assessments/C++/report/" target="blank">( LinkedIn Skill Assessment Badge )</a>
