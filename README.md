@@ -7,7 +7,9 @@
 ## 🛠  Skills
 - C++<a href="https://www.linkedin.com/skill-assessments/C++/report/" target="blank">( LinkedIn Skill Assessment Badge )</a>
 - Python<a href="https://www.hackerrank.com/certificates/aa7c0adea753">( HackerRank Python Basics )</a>
-- HTML, CSS, JavaScript
+- HTML <a href="https://www.linkedin.com/skill-assessments/HTML/report/" target="blank">( LinkedIn Skill Assessment Badge )</a> 
+- CSS
+- JavaScript
 - MySQL
 - C
 
