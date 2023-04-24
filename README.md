@@ -1,14 +1,15 @@
 # Hi, I am Arjun👋
 ## 🚀 About Me
-- Passionate about Cloud Technology.
-- Love Open Source.
--  ⚡ Fun fact! *I was born on Halloween Day!* 🤫
+- Passionate about Web Development.
+- Currently Pursuing B.Tech CSE @ Lovely Professional University.
 
 ## 🛠  Skills
+- ReactJS <a href="https://www.coursera.org/account/accomplishments/verify/S2PRJEGBBBK6" target="blank">(Meta React Basics)</a>
 - C++<a href="https://www.linkedin.com/skill-assessments/C++/report/" target="blank">( LinkedIn Skill Assessment Badge )</a>
 - Python<a href="https://www.hackerrank.com/certificates/aa7c0adea753">( HackerRank Python Basics )</a>
 - HTML <a href="https://www.linkedin.com/skill-assessments/HTML/report/" target="blank">( LinkedIn Skill Assessment Badge )</a> 
 - CSS
+- TailwindCSS
 - JavaScript
 - MySQL
 - C
